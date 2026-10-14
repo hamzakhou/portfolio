@@ -90,7 +90,7 @@ export default function App() {
                 <h3>Full-Stack Developer (Ecosystem Projects)</h3>
                 <p className="exp-company">1337 Coding School | Khouribga, Morocco</p>
               </div>
-              <span className="exp-date">2022 - 2025[cite: 1]</span>
+              <span className="exp-date">2022 - 2025</span>
             </div>
             <ul>
               <li>Designed and deployed robust microservices using .NET Core for complex business features.</li>
@@ -131,7 +131,7 @@ export default function App() {
                 <h3>Specialized Technician Diploma in Software Development</h3>
                 <p className="exp-company">ISTA | Khouribga, Morocco</p>
               </div>
-              <span className="exp-date">2020 - 2022[cite: 1]</span>
+              <span className="exp-date">2020 - 2022</span>
             </div>
           </div>
         </div>
