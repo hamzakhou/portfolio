@@ -30,7 +30,7 @@ export default function App() {
         <h1>Hamza <span>Khoulassi</span></h1>
         <p className="hero-title">Full-Stack Software Developer</p>
         <p className="hero-desc">
-          Passionate and rigorous Full-Stack Developer trained at 1337 Coding School (42 Network)[cite: 1], specializing in designing robust, scalable, and high-performance solutions.
+          Passionate and rigorous Full-Stack Developer trained at 1337 Coding School (42 Network), specializing in designing robust, scalable, and high-performance solutions.
         </p>
         <div className="hero-buttons">
           <a href="#contact" className="btn-primary">
@@ -48,17 +48,17 @@ export default function App() {
         <div className="about-grid">
           <div className="card">
             <ul style={{ direction: 'ltr' }}>
-              <li>📍 Khouribga, Morocco[cite: 1]</li>
+              <li>📍 Khouribga, Morocco</li>
               <li>✉️ khoulassihamza@gmail.com</li>
               <li>📞 +212 684104365</li>
             </ul>
           </div>
           <div className="card" style={{ color: '#cbd5e1' }}>
             <p style={{ marginBottom: '1rem' }}>
-              Full-Stack Developer trained at 1337 Coding School (42 Network)[cite: 1], possessing a strong foundation in complex problem solving and software architecture.
+              Full-Stack Developer trained at 1337 Coding School (42 Network), possessing a strong foundation in complex problem solving and software architecture.
             </p>
             <p>
-              Experienced with modern front-end and back-end technologies (.NET, Node.js, React)[cite: 1], focusing on writing clean code and building scalable applications.
+              Experienced with modern front-end and back-end technologies (.NET, Node.js, React), focusing on writing clean code and building scalable applications.
             </p>
           </div>
         </div>
@@ -73,14 +73,14 @@ export default function App() {
             <div className="exp-header">
               <div>
                 <h3>Full-Stack Developer</h3>
-                <p className="exp-company">1kbytes | Tangier, Morocco[cite: 1]</p>
+                <p className="exp-company">1kbytes | Tangier, Morocco</p>
               </div>
-              <span className="exp-date">Sept 2024 - Feb 2026[cite: 1]</span>
+              <span className="exp-date">Sept 2024 - Feb 2026</span>
             </div>
             <ul>
-              <li>End-to-end design and development of a knowledge management platform using Node.js, TypeScript, React, and MobX[cite: 1].</li>
-              <li>Created over ten modern web and mobile applications ensuring seamless API integration[cite: 1].</li>
-              <li>Optimized complaints processing workflow through high-performing software solutions[cite: 1].</li>
+              <li>End-to-end design and development of a knowledge management platform using Node.js, TypeScript, React, and MobX.</li>
+              <li>Created over ten modern web and mobile applications ensuring seamless API integration.</li>
+              <li>Optimized complaints processing workflow through high-performing software solutions.</li>
             </ul>
           </div>
 
@@ -88,14 +88,14 @@ export default function App() {
             <div className="exp-header">
               <div>
                 <h3>Full-Stack Developer (Ecosystem Projects)</h3>
-                <p className="exp-company">1337 Coding School | Khouribga, Morocco[cite: 1]</p>
+                <p className="exp-company">1337 Coding School | Khouribga, Morocco</p>
               </div>
               <span className="exp-date">2022 - 2025[cite: 1]</span>
             </div>
             <ul>
-              <li>Designed and deployed robust microservices using .NET Core for complex business features[cite: 1].</li>
-              <li>Architected and built booking systems based on DDD and CQRS patterns[cite: 1].</li>
-              <li>Optimized relational databases (T-SQL) for high-load applications[cite: 1].</li>
+              <li>Designed and deployed robust microservices using .NET Core for complex business features.</li>
+              <li>Architected and built booking systems based on DDD and CQRS patterns.</li>
+              <li>Optimized relational databases (T-SQL) for high-load applications.</li>
             </ul>
           </div>
 
@@ -120,16 +120,16 @@ export default function App() {
             <div className="exp-header">
               <div>
                 <h3>Software Architecture & Full-Stack Engineering</h3>
-                <p className="exp-company">1337 Coding School (42 Network) | Khouribga, Morocco[cite: 1]</p>
+                <p className="exp-company">1337 Coding School (42 Network) | Khouribga, Morocco</p>
               </div>
-              <span className="exp-date">2022 - 2025[cite: 1]</span>
+              <span className="exp-date">2022 - 2025</span>
             </div>
           </div>
           <div className="exp-card">
             <div className="exp-header">
               <div>
                 <h3>Specialized Technician Diploma in Software Development</h3>
-                <p className="exp-company">ISTA | Khouribga, Morocco[cite: 1]</p>
+                <p className="exp-company">ISTA | Khouribga, Morocco</p>
               </div>
               <span className="exp-date">2020 - 2022[cite: 1]</span>
             </div>
